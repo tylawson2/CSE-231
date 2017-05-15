@@ -1,0 +1,24 @@
+Enter a filename: State_Data.csv
+Specify a region from this list -- far_west,great_lakes,mideast,new_england,plains,rocky_mountain,southeast,southwest,all: plains
+
+Data for the  plains  region:
+
+North_Dakota  has the highest GDP per capita at $46,893.07
+Missouri  has the lowest GDP per capita at $36,136.82
+
+North_Dakota  has the highest ICP per capita at $43,235.65
+Missouri  has the lowest ICP per capita at $36,604.46
+
+Data for all states in the  plains  region
+
+State          Population(m)    GDP(b)    Income(b)     Subsidies(m)   Compensation(b)            Taxes(b)      GDP per capita   Income per capita
+Iowa                    3.05    124.01       119.08         1,039.00             72.04                9.10           40,655.02           39,038.68
+Kansas                  2.86    113.32       110.88           777.00             71.43                9.03           39,639.01           38,787.15
+Minnesota               5.31    240.42       226.32         1,327.00            154.01               18.85           45,270.87           42,615.83
+Missouri                6.00    216.68       219.48           911.00            142.84               14.96           36,136.82           36,604.46
+Nebraska                1.83     80.64        73.07           313.00             47.02                5.65           44,072.80           39,935.02
+North_Dakota            0.67     31.62        29.15           603.00             18.64                2.37           46,893.07           43,235.65
+South_Dakota            0.82     34.37        33.14           617.00             18.24                2.73           42,109.78           40,597.53
+Do you want to create a plot? yes
+Specify x and y values, space separated from Pop, GDP, PI, Sub, CE, TPI, GDPp, PIp: Pop GDPp
+<matplotlib.figure.Figure at 0x10a919630>

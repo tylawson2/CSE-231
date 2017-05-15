@@ -1,0 +1,23 @@
+Cracking zip files.
+Warning cracking passwords is illegal due to law U.S.C. 1030(6)
+and has a prison term of up to 10 years
+
+What type of cracking ('brute force','dictionary','both','q'): both
+
+Both Brute Force and Dictionary attack.
+
+Enter dictionary file name: short_dict.txt
+Enter zip file name: brute_force.zip
+No password found.
+Elapsed time (sec): 0.0140
+Brute force password is  cse
+Elapsed time (sec): 2.4192
+What type of cracking ('brute force','dictionary','both','q'): both
+
+Both Brute Force and Dictionary attack.
+
+Enter dictionary file name: rockyou.txt
+Enter zip file name: dictionary_attack.zip
+Dictionary password is  catdog
+Elapsed time (sec): 0.1389
+What type of cracking ('brute force','dictionary','both','q'): q

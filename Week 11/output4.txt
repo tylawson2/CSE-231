@@ -1,0 +1,24 @@
+Enter a filename: abcd
+Error in filename.
+Enter a filename: State_Data.csv
+Specify a region from this list -- far_west,great_lakes,mideast,new_england,plains,rocky_mountain,southeast,southwest,all: xxxyy
+Error in Region.
+Specify a region from this list -- far_west,great_lakes,mideast,new_england,plains,rocky_mountain,southeast,southwest,all: GreaT_laKes
+
+Data for the  great_lakes  region:
+
+Illinois  has the highest GDP per capita at $44,486.59
+Michigan  has the lowest GDP per capita at $33,389.35
+
+Illinois  has the highest ICP per capita at $42,071.83
+Indiana  has the lowest ICP per capita at $34,385.45
+
+Data for all states in the  great_lakes  region
+
+State          Population(m)    GDP(b)    Income(b)     Subsidies(m)   Compensation(b)            Taxes(b)      GDP per capita   Income per capita
+Illinois               12.84    571.23       540.22         2,746.00            362.94               50.56           44,486.59           42,071.83
+Indiana                 6.49    241.93       223.16           898.00            144.02               17.48           37,277.92           34,385.45
+Michigan                9.88    329.81       346.82         1,159.00            215.58               29.91           33,389.35           35,111.23
+Ohio                   11.54    413.99       418.54         1,608.00            272.72               33.55           35,879.64           36,273.55
+Wisconsin               5.69    219.08       220.50           973.00            141.45               18.43           38,505.34           38,755.33
+Do you want to create a plot? nO

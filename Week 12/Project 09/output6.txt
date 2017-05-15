@@ -1,0 +1,14 @@
+Enter a filename: gettysburg.txt
+Enter space-separated words: nation
+The co-occurance for nation:
+Lines: 2, 6, 9, 23
+
+Enter space-separated words: here dead
+The co-occurance for here dead:
+Lines: 14, 22
+
+Enter space-separated words: It is
+The co-occurance for It is:
+Lines: 10, 17, 19
+
+Enter space-separated words: q

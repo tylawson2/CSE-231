@@ -1,0 +1,27 @@
+Enter a filename: State_Data.csv
+Specify a region from this list -- far_west,great_lakes,mideast,new_england,plains,rocky_mountain,southeast,southwest,all: southeast
+
+Data for the  southeast  region:
+
+Virginia  has the highest GDP per capita at $47,036.17
+Mississippi  has the lowest GDP per capita at $28,749.45
+
+Virginia  has the highest ICP per capita at $44,853.78
+Mississippi  has the lowest ICP per capita at $30,847.16
+
+Data for all states in the  southeast  region
+
+State          Population(m)    GDP(b)    Income(b)     Subsidies(m)   Compensation(b)            Taxes(b)      GDP per capita   Income per capita
+Alabama                 4.78    153.84       162.23           485.00             98.28               11.02           32,151.81           33,904.93
+Arkansas                2.92     92.08        93.68           405.00             56.79                7.51           31,504.04           32,052.52
+Florida                18.85    650.29       725.44         2,522.00            399.29               69.98           34,505.47           38,492.85
+Georgia                 9.71    358.84       333.63         1,215.00            227.03               25.88           36,937.84           34,343.08
+Kentucky                4.35    141.98       143.21           484.00             92.35               12.33           32,663.86           32,947.06
+Louisiana               4.54    200.94       169.12           759.00            105.14               14.31           44,219.98           37,216.76
+Mississippi             2.97     85.36        91.59           387.00             52.85                7.37           28,749.45           30,847.16
+North_Carolina          9.56    380.69       338.99         1,300.00            218.62               30.47           39,825.30           35,462.65
+South_Carolina          4.64    143.41       151.54           472.00             93.03               11.88           30,935.33           32,688.38
+Tennessee               6.36    227.36       225.22           730.00            138.68               19.04           35,766.99           35,431.07
+Virginia                8.03    377.47       359.96         1,113.00            248.95               28.02           47,036.17           44,853.78
+West_Virginia           1.85     53.58        58.95           121.00             35.19                5.15           28,899.68           31,796.17
+Do you want to create a plot? no

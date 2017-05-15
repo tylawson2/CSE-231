@@ -1,0 +1,5 @@
+Cracking zip files.
+Warning cracking passwords is illegal due to law U.S.C. 1030(6)
+and has a prison term of up to 10 years
+
+What type of cracking ('brute force','dictionary','both','q'): q

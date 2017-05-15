@@ -1,0 +1,24 @@
+Enter a filename: xxxx
+Error in filename.
+Enter a filename: einstein.txt
+Enter space-separated words: The
+The co-occurance for The:
+Lines: 3, 4, 7
+
+Enter space-separated words: can't
+The co-occurance for can't:
+Lines: 6
+
+Enter space-separated words: nature
+The co-occurance for nature:
+Lines: 2
+
+Enter space-separated words: cat
+The co-occurance for cat:
+Lines: None
+
+Enter space-separated words: 
+The co-occurance for :
+Lines: None
+
+Enter space-separated words: Q

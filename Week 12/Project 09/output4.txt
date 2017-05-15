@@ -1,0 +1,14 @@
+Enter a filename: einstein.txt
+Enter space-separated words: the
+The co-occurance for the:
+Lines: 3, 4, 7
+
+Enter space-separated words: the is
+The co-occurance for the is:
+Lines: 3, 7
+
+Enter space-separated words: true knowledge imagination
+The co-occurance for true knowledge imagination:
+Lines: 3
+
+Enter space-separated words: q
